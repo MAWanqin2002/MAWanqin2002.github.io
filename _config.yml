@@ -17,18 +17,18 @@ repository               : "academicpages/academicpages.github.io"
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Wanqin Ma"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Stay Hungry, Stay Foolish"
   pronouns         : # example: "she/her"
-  location         : "Location"
-  orcid            : "http://orcid.org/yourorcidurl"
+  location         : "Hong Kong"
+  orcid            : #"http://orcid.org/yourorcidurl"
   employer         :
   email            :  
   uri              :
 
   # Manuscript repositories
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"         # Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=kSKwZ1oAAAAJ&hl=zh-TW"         # Update with the correct link to your profile
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
