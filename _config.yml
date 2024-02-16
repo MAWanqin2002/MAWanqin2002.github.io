@@ -11,9 +11,9 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mawanqin2002.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "MAWanqin2002/MAWanqin2002.github.io"
 
 # Site Author
 author:
@@ -22,10 +22,10 @@ author:
   bio              : "Stay Hungry, Stay Foolish"
   pronouns         : # example: "she/her"
   location         : "Hong Kong"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0009-0002-3376-179X
   employer         :
-  email            :  
-  uri              :
+  email            :  wmaag at connect dot ust dot hk
+  uri              :  https://mawanqin2002.github.io/
 
   # Manuscript repositories
   googlescholar    : "https://scholar.google.com/citations?user=kSKwZ1oAAAAJ&hl=zh-TW"         # Update with the correct link to your profile
@@ -39,14 +39,14 @@ author:
   facebook         :
   flickr           :
   foursquare       :
-  github           : "academicpages"
+  github           : https://github.com/MAWanqin2002
   goodreads        :
   google_plus      :
   keybase          :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/wanqin-ma-400745241/
   kaggle           : # "kaggleusername"
   mastodon         : "mastodonhandle"
   medium           : # "add medium profile url here"
