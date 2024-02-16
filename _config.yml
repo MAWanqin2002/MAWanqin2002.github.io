@@ -7,7 +7,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Wanqin Ma /Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
 
   # Manuscript repositories
   googlescholar    : "https://scholar.google.com/citations?user=kSKwZ1oAAAAJ&hl=zh-TW"         # Update with the correct link to your profile
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 
   # Social media
