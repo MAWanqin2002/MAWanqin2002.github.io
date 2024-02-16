@@ -15,7 +15,7 @@ Email: wmaag [at] connect [dot] ust [dot] hk
 
 News
 ======
-**Feb  2, 2024:**       New paper <a href="https://arxiv.org/abs/2311.11123" style="color: orange;">(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs</a> has been accepted as a short paper in [CAIN 2024](https://conf.researchr.org/track/cain-2024/cain-2024-call-for-papers) and has been camera-ready. I'm looking forward to the ACM publish version.
+**Feb  2, 2024:**       New paper <a href="https://arxiv.org/abs/2311.11123" style="color: orange;">(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs</a> has been accepted as a short paper in <a href="https://conf.researchr.org/home/cain-2024" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">CAIN 2024</a> and has been camera-ready. I'm looking forward to the ACM publish version.
 
 **Nov 17, 2023:**       A paper submitted to [CAIN 2024](https://conf.researchr.org/track/cain-2024/cain-2024-call-for-papers), Good Luck
 
