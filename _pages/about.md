@@ -11,13 +11,17 @@ Hello 😎 I am Wanqin (Francesca) Ma. I’m a senior year student at [The Hong
 
 I am passionate about machine learning and its applications. My research interests include computer vision, regression tests on large language models (LLMs), and wireless communication. Please take a look at my selected publication below for more details.
 
-Email: wmaag at connect dot ust dot hk
+Email: wmaag [at] connect [dot] ust [dot] hk
 
 News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Feb  2, 2024       New paper [(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs](https://arxiv.org/abs/2311.11123) has been accepted as a short paper in [CAIN 2024](https://conf.researchr.org/track/cain-2024/cain-2024-call-for-papers) and been camera-ready. Let's looking forward to ACM publish version.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Nov 17, 2023       A paper submitted to [CAIN 2024](https://conf.researchr.org/track/cain-2024/cain-2024-call-for-papers), Good Luck
+
+Jun  4, 2023      I’m visiting Carnegie Mellon University, advised by [Professor.Christian Kästner](https://www.cs.cmu.edu/~ckaestne/)
+
+Oct 15, 2022      My paper published on [STACOM 2022](https://stacom.github.io/stacom2022/) (Also a poster presented)
 
 Getting started
 ======
