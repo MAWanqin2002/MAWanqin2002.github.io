@@ -46,16 +46,16 @@ author:
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/wanqin-ma-400745241/
+  linkedin         : /wanqin-ma-400745241/
   kaggle           : # "kaggleusername"
-  mastodon         : "mastodonhandle"
+  mastodon         : #"mastodonhandle"
   medium           : # "add medium profile url here"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   wikipedia        :
