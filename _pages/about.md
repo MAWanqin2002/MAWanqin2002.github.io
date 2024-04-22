@@ -24,6 +24,4 @@ News
 **Oct 15, 2022:**      My paper was published on <a href="https://stacom.github.io/stacom2022/" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">STACOM 2022</a> (Also, a poster was presented)
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NLx-W_9uZx-yAr2e10puj3z4UYSuWBuQg0n6LwE0o2A"></script>
-
 
