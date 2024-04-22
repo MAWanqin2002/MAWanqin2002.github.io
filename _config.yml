@@ -62,6 +62,8 @@ author:
   xing             :
   youtube          :
 
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NLx-W_9uZx-yAr2e10puj3z4UYSuWBuQg0n6LwE0o2A"></script>
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
