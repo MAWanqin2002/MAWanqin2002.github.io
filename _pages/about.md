@@ -7,14 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hello 😎 I am Wanqin (Francesca) Ma. I’m a senior year student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/). My major is [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) and [Mathematics (Computer Science Track)](https://www.math.hkust.edu.hk/).
+Hello 😎 I am Wanqin (Francesca) Ma. I’m a year 1 PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Ross Murch](https://eermurch.home.ece.ust.hk/). I spent my undergraduate at the same institution, majoring in [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) and [Mathematics (Computer Science Track)](https://www.math.hkust.edu.hk/).
 
-I am passionate about machine learning and its applications. My research interests include computer vision, regression tests on large language models (LLMs), and wireless communication. Please take a look at my publication for more details.
+I am passionate about inverse scattering problems, computer vision, and machine learning. Please take a look at my publication for more details.
 
 Email: wmaag [at] connect [dot] ust [dot] hk
 
 News
 ======
+**Jul 15, 2024:**      I graduated from HKUST with a Bachelor's degree in Engineering of Electronic and Computer Engineering and an additional major in Mathematics.
+
 **Feb  2, 2024:**       New paper <a href="https://arxiv.org/abs/2311.11123" style="color: orange;">(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs</a> has been accepted as a short paper in <a href="https://conf.researchr.org/home/cain-2024" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">CAIN 2024</a> and has been camera-ready. I'm looking forward to the ACM publish version.
 
 **Nov 17, 2023:**       A paper submitted to <a href="https://conf.researchr.org/home/cain-2024" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">CAIN 2024</a>, Good Luck
