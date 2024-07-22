@@ -9,7 +9,7 @@ redirect_from:
 
 Hello 😎 I am Wanqin (Francesca) Ma. I’m a year 1 PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor Ross Murch](https://eermurch.home.ece.ust.hk/). I spent my undergraduate at the same institution, majoring in [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) and [Mathematics (Computer Science Track)](https://www.math.hkust.edu.hk/).
 
-I am passionate about inverse scattering problems, computer vision, and machine learning. Please take a look at my publication for more details.
+I am passionate about inverse scattering problems, computer vision, machine learning, and their application in future 6G. Please take a look at my publication for more details.
 
 Email: wmaag [at] connect [dot] ust [dot] hk
 
