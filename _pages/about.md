@@ -15,11 +15,14 @@ Email: wmaag [at] connect [dot] ust [dot] hk
 
 News
 ======
+**Dec 21, 2025:**      Two new papers published, congratulations! I'm thrilled to share the work exploring the Wi-Fi transceiver used for 6G <a href="https://ieeexplore.ieee.org/document/11266042" style="color: orange;">Frequency Diversity Analysis for Extended Rytov Approximation</a> published in <a href="https://2025.apsursi.org/" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">IEEE APS/URSI 2025</a>; And another work related to my undergraduate work in CMRxMotion Challenge 2022, <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004293" style="color: orange;">Extreme cardiac MRI analysis under respiratory motion: Results of the CMRxMotion challenge</a> published in <a href="https://www.sciencedirect.com/journal/medical-image-analysis" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">
+Medical Image Analysis</a>, a top journal with IF 11.8.
+
 **Jun 3, 2025:**       I'm invited to be a co-author of the summary paper of the CMRxMotion Challenge 2022 in MICCAI. Good luck with the publication.
 
 **Jul 15, 2024:**      I graduated from HKUST with Bachelor of Engineering in Electronic and Computer Engineering and additional major in Mathematics.
 
-**Feb  2, 2024:**       New paper <a href="https://arxiv.org/abs/2311.11123" style="color: orange;">(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs</a> has been accepted as a short paper in <a href="https://conf.researchr.org/home/cain-2024" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">CAIN 2024</a> and has been camera-ready. I'm looking forward to the ACM publish version.
+**Feb  2, 2024:**       New paper <a href="https://arxiv.org/abs/2311.11123" style="color: orange;">(Why) Is My Prompt Getting Worse? Rethinking Regression Testing for Evolving LLM APIs</a> has been accepted as a short paper in <a href="https://conf.researchr.org/home/cain-2024" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">CAIN 2024</a> and has been camera-ready. I'm looking forward to the ACM published version.
 
 **Nov 17, 2023:**       A paper submitted to <a href="https://conf.researchr.org/home/cain-2024" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">CAIN 2024</a>, Good Luck
 
