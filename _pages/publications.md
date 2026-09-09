@@ -4,6 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**Benchmarking Regularization Methods For 3D Radio Tomographic Imaging** <a href="https://arxiv.org/abs/2609.08207" style="color: green;">arXiv</a>
+<br>
+<span style="color: gray;">**Wanqin Ma**, Yijun Chen, Alikhan Umirbayev, Jichen Zhang, Ross Murch </span> 
+<br>
+
+**A 3D Formulation of the Extended Phaseless Rytov Approximation** <a href="https://arxiv.org/abs/2606.06933" style="color: green;">arXiv</a>
+<br>
+<span style="color: gray;">**Wanqin Ma**, Zan Li, Amartansh Dubey, Alikhan Umirbayev, Yijun Chen, Junhui Rao, Ross Murch </span> 
+<br>
+
 <a href="https://2025.apsursi.org/" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">IEEE AP-S/URSI 2025</a> **Frequency Diversity Analysis for Extended Rytov Approximation** <a href="https://ieeexplore.ieee.org/document/11266042" style="color: blue;">IEEE Xplore</a>
 <br>
 <span style="color: gray;">Zan Li, Amartansh Dubey, **Wanqin Ma**, Junhui Rao, Ross Murch </span> 
