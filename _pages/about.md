@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello 😎 I am Wanqin (Francesca) Ma. I’m a year 2 PhD student at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor.Ross Murch](https://eermurch.home.ece.ust.hk/). I spent my undergraduate years at the same institution, majoring in [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) and [Mathematics (Computer Science Track)](https://www.math.hkust.edu.hk/).
+Hello 😎 I am Wanqin (Francesca) Ma. I’m a year 3 PhD candidate at [The Hong Kong University of Science and Technology](https://hkust.edu.hk/), supervised by [Professor.Ross Murch](https://eermurch.home.ece.ust.hk/). I spent my undergraduate years at the same institution, majoring in [Electronic and Computer Engineering](https://ece.hkust.edu.hk/) and [Mathematics (Computer Science Track)](https://www.math.hkust.edu.hk/).
 
 I am passionate about inverse scattering problems, computer vision, machine learning, and their application in the future 6G. Please take a look at my publication for more details.
 
@@ -16,6 +16,8 @@ Email: wmaag [at] connect [dot] ust [dot] hk
 News
 ======
 **Sep 9, 2026:**       Two new papers submitted, good luck! One for IEEE Trans and it's under review, the other for ICASSP 2027. The arXiv preprint is available now:  <a href="https://arxiv.org/abs/2606.06933" style="color: orange;">A 3D Formulation of the Extended Phaseless Rytov Approximation</a> and <a href="https://arxiv.org/abs/2609.08207" style="color: orange;">Benchmarking Regularization Methods For 3D Radio Tomographic Imaging</a>
+
+**Jan 2, 2026**        I passed the PhD Qualifying Exam(PQE), and now become a PhD candidate in HKUST. Congratulations!
 
 **Dec 21, 2025:**      Two new papers published, congratulations! I'm thrilled to share the work exploring the Wi-Fi transceiver used for 6G <a href="https://ieeexplore.ieee.org/document/11266042" style="color: orange;">Frequency Diversity Analysis for Extended Rytov Approximation</a> published in <a href="https://2025.apsursi.org/" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">IEEE APS/URSI 2025</a>; And another work related to my undergraduate work in CMRxMotion Challenge 2022, <a href="https://www.sciencedirect.com/science/article/pii/S1361841525004293" style="color: orange;">Extreme cardiac MRI analysis under respiratory motion: Results of the CMRxMotion challenge</a> published in <a href="https://www.sciencedirect.com/journal/medical-image-analysis" style="background-color: skyblue; color: white; padding: 2px 4px; text-decoration: none; border-radius: 5px;">
 Medical Image Analysis</a>, a top journal with IF 11.8.
