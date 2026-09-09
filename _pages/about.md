@@ -15,7 +15,7 @@ Email: wmaag [at] connect [dot] ust [dot] hk
 
 News
 ======
-**Sep 9, 2026:**       Two new papers submitted, good luck! One for IEEE Trans and it's under review, the other for ICASSP 2027. The arXiv preprint is available now:  <a href="https://arxiv.org/abs/2606.06933" style="color: orange;">A 3D Formulation of the Extended Phaseless Rytov Approximation</a> and <a href="https://arxiv.org/abs/2609.08207" style="color: orange;">Benchmarking Regularization Methods For 3D Radio Tomographic Imaging</a>
+**Sep 9, 2026:**       Two new papers submitted, good luck! One for IEEE transactions and it's under review, the other for ICASSP 2027. The arXiv preprint is available now:  <a href="https://arxiv.org/abs/2606.06933" style="color: orange;">A 3D Formulation of the Extended Phaseless Rytov Approximation</a> and <a href="https://arxiv.org/abs/2609.08207" style="color: orange;">Benchmarking Regularization Methods For 3D Radio Tomographic Imaging</a>
 
 **Jan 2, 2026:**       I passed the PhD Qualifying Exam(PQE), and now become a PhD candidate in HKUST. Congratulations!
 
